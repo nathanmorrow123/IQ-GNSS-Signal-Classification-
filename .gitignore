@@ -1,0 +1,13 @@
+# Ignore the Stearns Data directory
+Stearns\ Data/
+
+# Ignore the Zenodo directory
+Zenodo/
+Raw_IQ_Dataset/
+
+
+# Ignore specific files in the Train directory
+Train/test.tfrecord
+Train/train.tfrecord
+Train/valid.tfrecord
+Raw_IQ_Dataset.zip
